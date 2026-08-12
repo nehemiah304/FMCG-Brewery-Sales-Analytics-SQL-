@@ -39,7 +39,11 @@ The goal is to uncover actionable insights that support market strategy, promoti
 - Highest-performing Budweiser sales personnel in Senegal
 - Country with the highest profit in Q4 2019 (Oct–Dec)
 
-## 📚 Dataset Description Source: International_fmcg_sql_assessment.csv  1,047 sales transaction records, 2017–2019. Table: fmcg_sales Columns: COUNTRIES, YEARS, MONTHS, REGION, BRANDS, SALES_REP, QUANTITY, PROFIT. Countries: Ghana, Nigeria (Anglophone); Benin, Senegal, Togo (Francophone). Regions (within country): Southeast, Northcentral, Northeast, Northwest, Southsouth, West. Brands: Beer — Budweiser, Castle Lite, Eagle Lager, Hero, Trophy. Malt (non-alcoholic)  Beta Malt, Grand Malt. Currency: All profit figures in Naira (N), native/unmodified.
+## 📚 Dataset Description Source:
+International_fmcg_sql_assessment.csv  1,047 sales transaction records, 2017–2019. Table: fmcg_sales Columns: COUNTRIES, YEARS, MONTHS, REGION, BRANDS, SALES_REP, QUANTITY, PROFIT. Countries: Ghana, Nigeria (Anglophone); Benin, Senegal, Togo (Francophone). 
+Regions (within country): Southeast, Northcentral, Northeast, Northwest, Southsouth, West.
+Brands: Beer Budweiser, Castle Lite, Eagle Lager, Hero, Trophy. Malt (non-alcoholic)  Beta Malt, Grand Malt. 
+Currency: All profit figures in Naira (N), native/unmodified.
 
 ## 🧹 Data Cleaning and Preparation
 
