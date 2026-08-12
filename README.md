@@ -1,7 +1,8 @@
 # FMCG Brewery Sales Analysis (SQL) 
 This analysis was conducted on an international FMCG brewery sales dataset (1,047 transaction records) covering Anglophone (Ghana, Nigeria) and Francophone (Benin, Senegal, Togo) West African markets across 2017–2019, spanning brands, regions, sales reps, and profitability.
 
-## 🔍 Overview This project performs exploratory and business-driven analysis on FMCG brewery sales data using SQL. 21 SQL queries were developed to answer key business questions related to overall profitability, territory and country performance, seasonal trends, brand consumption, regional preferences, and sales rep performance.
+## 🔍 Overview 
+This project performs exploratory and business-driven analysis on FMCG brewery sales data using SQL. 21 SQL queries were developed to answer key business questions related to overall profitability, territory and country performance, seasonal trends, brand consumption, regional preferences, and sales rep performance.
 
 The goal is to uncover actionable insights that support market strategy, promotional planning, and resource allocation decisions across the brewery's West African operations — prepared for the Territory Manager as evidence for 2020 strategic decisions.
 
